@@ -1,5 +1,5 @@
-# therotateapp.com
 ## The Rotate App
+# therotateapp.com
 
 The Rotate app connects multiple mobile devices to capture pictures of an object from various angles simultaneously while stitching them together in a rotating video
 
